@@ -1,2 +1,2 @@
 # Netflix_Clone
-Netflix cloning using Html,Css
+Netflix cloning using Html,Css,Javascript
